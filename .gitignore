@@ -1,0 +1,10 @@
+# PyCharm / JetBrains
+.idea/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Outras pastas temporárias
+.env
+.venv
