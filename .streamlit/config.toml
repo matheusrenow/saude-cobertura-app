@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#0ea5e9"          # azul-ciano moderno
+backgroundColor="#0b1220"       # dark elegante (opcional)
+secondaryBackgroundColor="#111827"
+textColor="#e5e7eb"
+font="sans"
